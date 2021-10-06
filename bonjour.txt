@@ -1,0 +1,6 @@
+nom:zouini
+prénom:wafae
+age:18
+compétences:travail d'équipe
+            communication
+            créativité
